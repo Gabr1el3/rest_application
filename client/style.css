@@ -1,0 +1,49 @@
+.container {
+	width: 100%;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form {
+	margin-bottom: 20px;
+	height: 70px;
+}
+
+button.add {
+	width: 100px;
+	font-size: 16px;
+	margin: 5px;
+	height: 60px;
+	background-color: blue;
+	color: white;
+}
+
+ul {
+	padding: 0px;
+	width: 90%;
+}
+
+li.element {
+	width: 90%;
+	list-style-type: none;
+	cursor: pointer;
+	padding: 12px 5px 5px 5px;
+	font-size: 20px;
+}
+
+.title {
+	float: left;
+	width: 75%;
+}
+
+input {
+	margin: 5px;
+	float: left;
+	width: 30%;
+	height: 60px;
+	padding: 10px;
+	font-size: 16px;
+}
+
+.visite{
+	align-self: flex-start;
+}
